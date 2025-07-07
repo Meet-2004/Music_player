@@ -1,0 +1,15 @@
+.border-black{
+    border:0.1cm black solid;
+    margin:3px;
+    margin-top: 4cm;
+    
+}
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.item-center{
+    align-items: center;
+}
